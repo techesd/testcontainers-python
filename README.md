@@ -12,6 +12,8 @@
 
 # Testcontainers Python
 
+TEST
+
 `testcontainers-python` facilitates the use of Docker containers for functional and integration testing.
 
 For more information, see [the docs][readthedocs].
